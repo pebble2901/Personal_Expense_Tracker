@@ -1,4 +1,4 @@
-##Personal_Expense_Tracker
+ ## Personal_Expense_Tracker
 
 💰Expenses is a [progressive web application](https://developers.google.com/web/progressive-web-apps/) on top of [Google Sheets](https://developers.google.com/sheets/) 📉 written in [React](https://facebook.github.io/react/) ⚛️. It is only a static HTML that works great on mobile 📱 and can be deployed anywhere.
 
