@@ -59,4 +59,3 @@ After that, they have the same access as you are and can add expenses through th
 
 ---
 
-If you like this project – you might also enjoy [React Digest](https://reactdigest.net/) newsletter 🗞. Subscribe to get the top 5 news from React community every week.
